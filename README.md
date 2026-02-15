@@ -66,6 +66,3 @@ The dashboard gives clarity on hiring, turnover, salary structure, employee sati
 
 ---
 
-## 📬 Contact
-
-Feedback and contributions welcome! Connect with me on LinkedIn.
